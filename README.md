@@ -6,4 +6,11 @@
   After this the code will work for everyone if you want you can use your username and password or another database name but you need change some code like inside <code>new PDO()</code>
 </p>
 
+<h2>Why did I need to use php in portfolio?</h2>
+<p style = "color:red">This is my demo one and in the future it will be like a portfolio-library</p>
+
+
+
+
+
 <p></p>
