@@ -26,4 +26,4 @@
   </code></pre></p>
 
 
-<p>I am new in php or in English too :) ,I hope I will win my internship with php in starlabs :) Good luck!<p>
+<p>I am new in PHP, I hope I will win my internship with php in starlabs :) Good luck!<p>
