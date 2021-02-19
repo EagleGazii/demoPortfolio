@@ -153,9 +153,6 @@ if(isset($user_array)){
 
 		
 
-<!-- 	<h4 class= "text-secondary"> İş ve Staj deneyimleri </h4>
-                   <p>2019-Atakum Belediyesi Bilgi İşlem Birimi-Staj </p>
-      </div> -->
      
         
       
