@@ -105,17 +105,9 @@ require_once ("../pdo/pdo.php");
       echo '</div>';
 
      }     
-     
-        
-       
-      
-    ?>
-     
-      
-        
-    
 
-      
+    ?>
+ 
       
     </div>
   </main>
