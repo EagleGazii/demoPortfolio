@@ -16,12 +16,14 @@
 
 <p>Some weeks later I will try to finish my idea about this project. And after that my project will look like :
   <br><pre><code>First page - you can login with an email or login as a guest
-                  If you will choose login with email - after that your portfolio will open and you can change it however you want. 
+                  If you will choose login with email - after that your 
+                  portfolio will open and you can change it however you want. 
+                  If you will login as a guest - will be opened a second page,
+                  in that page you will be able to saw all the portfolio that are 
+                  in databese. And as a guest you can choose any of portfolio you want.
+                  But as a guest you will never be able to change the data inside 
+                  the any portfolio.
   </code></pre></p>
 
 
-
-
-
-
-<p></p>
+<p>I am new in php or in English too :) ,I hope I will win my internship with php in starlabs :) Good luck!<p>
